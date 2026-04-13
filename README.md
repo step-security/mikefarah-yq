@@ -32,6 +32,4 @@ A GitHub Action that provides [yq](https://github.com/mikefarah/yq), a lightweig
 |--------|-------------|
 | `result` | The complete result from the yq command being run |
 
-See https://mikefarah.gitbook.io/yq/usage/github-action for more.
-
 See [yq documentation](https://mikefarah.gitbook.io/yq/) for detailed usage of the yq tool itself.
