@@ -1,4 +1,4 @@
-FROM mikefarah/yq:4@sha256:603ebff15eb308a05f1c5b8b7613179cad859aed3ec9fdd04f2ef5d32345950e
+FROM mikefarah/yq:4@sha256:0cb4a78491b6e62ee8a9bf4fbeacbd15b5013d19bc420591b05383a696315e60
 
 # github action recommendation is to run as root.
 # https://docs.github.com/en/actions/creating-actions/dockerfile-support-for-github-actions#user
