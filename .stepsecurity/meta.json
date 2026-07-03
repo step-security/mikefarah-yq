@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/mikefarah-yq",
+   "upstream_full_repo_name": "mikefarah/yq",
+   "action_type": "docker",
+   "last_release": {
+     "tag_name": "v4.52.5",
+     "created_at": "2026-04-13T09:55:55Z",
+     "published_at": "2026-04-15T15:47:41Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
