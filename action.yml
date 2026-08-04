@@ -13,6 +13,6 @@ outputs:
     description: "The complete result from the yq command being run"
 runs:
   using: 'docker'
-  image: 'docker://ghcr.io/step-security/mikefarah-yq:v4.52.5@sha256:d2cee151e97c7697a7be53f6ffbfd50b15a785f1e6a289510429279dd7cc1c95' # v4.52.5
+  image: 'docker://ghcr.io/step-security/mikefarah-yq:v4.53.3@sha256:5c311bed16c3cb5afa4e889013e5b5b25614f4ce3e8d4335e84481a60e4c549d' # v4.53.3
   args:
     - ${{ inputs.cmd }}
